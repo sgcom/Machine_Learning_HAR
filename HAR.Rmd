@@ -304,12 +304,6 @@ har.subset <- har.train[idx,]
 
 ```
 
-...
-
-```{r}
-# TODO
-```
-
 ### Modeling
 
 In this section I am training and exploring a few different models, using the selected raw features.
